@@ -1,0 +1,22 @@
+title {
+  font-weight: bold;
+  font-family: Arial;
+  color: rgb(0, 0, 0);
+  font-size: 24px;
+}
+
+body {  background-color: #f3f4f5; } 
+
+h1,h2,h3 {
+    font-weight: bold;
+    font-family: Arial;
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+  }
+
+  p {
+    font-family: Georgia;
+    color: #757575;
+    font-size: 18px;
+ }
+  
